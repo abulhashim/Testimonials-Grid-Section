@@ -16,7 +16,7 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [frontendmentor.io/solutions/testimonials-grid-section](https://www.frontendmentor.io/solutions/testimonials-grid-section)
+- Solution URL: [frontendmentor.io/solutions/testimonials-grid-section](https://www.frontendmentor.io/solutions/testimonials-grid-section-using-css-grid-szivBz0kTw)
 - Live Site URL: [abulhashim.github.io/Testimonials-Grid-Section](https://abulhashim.github.io/Testimonials-Grid-Section/)
 
 ## My process
